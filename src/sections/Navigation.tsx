@@ -51,7 +51,7 @@ const Navigation = () => {
               }}
               className="text-xl font-bold gradient-text"
             >
-              Muneeb.
+              Muneeb Ijaz
             </a>
 
             {/* Desktop Navigation */}
